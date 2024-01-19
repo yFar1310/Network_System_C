@@ -1,0 +1,28 @@
+Statistiques globales :
+
+Robot_1 : Score = 21,Tours joués = 161
+
+mohamed : Score = 24,Tours joués = 24
+
+Robot_2 : Score = 6,Tours joués = 161
+
+Robot_3 : Score = 48,Tours joués = 72
+
+yahya : Score = 21,Tours joués = 24
+
+
+Score total de toutes les parties = 120
+Nombre total de joueurs humains = 2
+Nombre total de joueurs robots = 3
+Moyenne des scores de toutes les parties = 24
+
+Statistiques par robot :
+
+Robot_1 : Moyenne = 41,0745, Variance = 402,987
+Robot_2 : Moyenne = 40,0932, Variance = 1162,34
+Robot_3 : Moyenne = 56,8611, Variance = 78,5193
+
+Statistiques par joueur humain :
+
+mohamed : Moyenne = 22,4583, Variance = 2,37674
+yahya : Moyenne = 28, Variance = 49

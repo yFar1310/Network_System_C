@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Client.dir/src/main.c.o -o ../Client   -L/home/yfar/Desktop/SR/NP/Client/../Commune/build  -Wl,-rpath,/home/yfar/Desktop/SR/NP/Client/../Commune/build -lCommune 

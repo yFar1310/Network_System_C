@@ -1,0 +1,8 @@
+/home/yfar/Desktop/SR/NewProject/build/CMakeFiles/edit_cache.dir
+/home/yfar/Desktop/SR/NewProject/build/CMakeFiles/rebuild_cache.dir
+/home/yfar/Desktop/SR/NewProject/build/Commune/CMakeFiles/Commune.dir
+/home/yfar/Desktop/SR/NewProject/build/Commune/CMakeFiles/edit_cache.dir
+/home/yfar/Desktop/SR/NewProject/build/Commune/CMakeFiles/rebuild_cache.dir
+/home/yfar/Desktop/SR/NewProject/build/Serveur/CMakeFiles/Serveur.dir
+/home/yfar/Desktop/SR/NewProject/build/Serveur/CMakeFiles/edit_cache.dir
+/home/yfar/Desktop/SR/NewProject/build/Serveur/CMakeFiles/rebuild_cache.dir

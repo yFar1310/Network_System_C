@@ -1,0 +1,3 @@
+/home/yfar/Desktop/SR/NP/Commune/build/CMakeFiles/Commune.dir
+/home/yfar/Desktop/SR/NP/Commune/build/CMakeFiles/edit_cache.dir
+/home/yfar/Desktop/SR/NP/Commune/build/CMakeFiles/rebuild_cache.dir

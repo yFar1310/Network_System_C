@@ -1,0 +1,3 @@
+/home/yfar/Desktop/SR/NP/Client/build/CMakeFiles/Client.dir
+/home/yfar/Desktop/SR/NP/Client/build/CMakeFiles/edit_cache.dir
+/home/yfar/Desktop/SR/NP/Client/build/CMakeFiles/rebuild_cache.dir

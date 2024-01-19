@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPartie_Commune.a CMakeFiles/Partie_Commune.dir/src/Carte.c.o CMakeFiles/Partie_Commune.dir/src/Joueurs.c.o
+/usr/bin/ranlib libPartie_Commune.a

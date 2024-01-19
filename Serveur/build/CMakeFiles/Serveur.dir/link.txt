@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Serveur.dir/src/main.c.o CMakeFiles/Serveur.dir/src/Jouer.c.o -o ../Serveur   -L/home/yfar/Desktop/SR/NP/Serveur/../Commune/build  -Wl,-rpath,/home/yfar/Desktop/SR/NP/Serveur/../Commune/build -lCommune 

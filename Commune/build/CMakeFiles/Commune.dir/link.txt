@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCommune.a CMakeFiles/Commune.dir/src/Carte.c.o CMakeFiles/Commune.dir/src/Joueurs.c.o CMakeFiles/Commune.dir/src/Robot.c.o
+/usr/bin/ranlib libCommune.a

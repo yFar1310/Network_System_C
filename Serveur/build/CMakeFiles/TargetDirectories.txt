@@ -1,0 +1,3 @@
+/home/yfar/Desktop/SR/NP/Serveur/build/CMakeFiles/Serveur.dir
+/home/yfar/Desktop/SR/NP/Serveur/build/CMakeFiles/edit_cache.dir
+/home/yfar/Desktop/SR/NP/Serveur/build/CMakeFiles/rebuild_cache.dir
